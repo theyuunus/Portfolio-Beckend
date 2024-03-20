@@ -2,7 +2,7 @@
     "works": [
         {
             "id": 1,
-            "img": "./images/portfolio.png",
+            "img": "https://portfolio-beckend-production.up.railway.app/images/portfolio.png",
             "languages": "react-typescript sass",
             "title": "My new Portfolio",
             "text": "I am currently working on updating my portfolio to version 2.0",
